@@ -1,4 +1,5 @@
 {
+  "type":"module",
   "name": "the-shop-client",
   "version": "1.0.0",
   "proxy": "http://127.0.0.1:5000/",
